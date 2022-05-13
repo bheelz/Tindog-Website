@@ -1,0 +1,186 @@
+#title {
+  background-color: #ff4c68;
+}
+
+#features {
+  text-align: center;
+  margin: 100px;
+  position: relative;
+  z-index: 1;
+}
+
+#testimonials {
+  text-align: center;
+  padding: 3% 20%;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 5%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 3% 20%;
+  text-align: center;
+  color: #fff;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 20%;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  line-height: 1.5;
+  font-family: Montserrat;
+}
+
+h2 {
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Montserrat;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+  margin-bottom: 0;
+}
+
+.fa-4x {
+  color: #ef8172;
+}
+
+.fa:hover {
+  color: #ff4c68;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.container {
+  padding: 3% 10%;
+}
+
+.container-fluid {
+  padding: 0 0 4.5rem 0;
+}
+
+.iphone6 {
+  width: 50%;
+  margin: 0 25% 0 20%;
+}
+
+.contact {
+  margin-left: 340px;
+}
+
+.download-button-one {
+  margin-bottom: 50px;
+}
+
+.download-button-two {
+  margin-bottom: 50px;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 30px 20px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.download-button-bottom {
+  margin-top: 40px;
+}
+
+.cta-heading {
+  font-family: Montserrat;
+  line-height: 1.5;
+  font-size: 2.5rem;
+}
+
+.social-icon {
+  padding: 20px 10px;
+}
+
+.db {
+  margin-right: 10px;
+}
+
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+
+  .heading {
+    margin-bottom: 50px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    line-height: 1.5;
+    font-family: Montserrat;
+  }
+
+  .iphone6 {
+    margin: 0;
+    width: 60%;
+  }
+
+  .p-pricing {
+    margin: 25px 0 50px;
+  }
+
+  .pricing-column-vertical {
+    margin-bottom: 50px;
+  }
+
+  .vertical-features {
+    margin-bottom: 100px;
+  }
+
+  .download-button-bottom {
+    margin-right: 0;
+  }
+
+  #testimonials {
+    padding: 10% 20% 10%;
+  }
