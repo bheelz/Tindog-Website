@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://bheelz.github.io/Tindog-Website/]
+- Live Site URL: [https://bheelz.github.io/Tindog]
 
 ### Built with
 
