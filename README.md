@@ -23,12 +23,12 @@ Users should be able to:
 
 <p align="center">
  <h3>DESKTOP VIEW</h3>
-<img src="https://github.com/bheelz/Social-Proof-Challenge/blob/main/design/desktop-design.jpg">
+<img src="https://github.com/bheelz/Tindog/blob/main/design/Desktop.png">
 </p>
 
 <p align="center">
  <h3>MOBILE VIEW</h3>
-<img src="https://github.com/bheelz/Social-Proof-Challenge/blob/main/design/mobile-design.jpg">
+<img src="https://github.com/bheelz/Tindog/blob/main/design/Mobile.png">
 </p>
 
 ### Links
